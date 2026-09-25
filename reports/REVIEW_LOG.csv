@@ -1,0 +1,4 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,nhóm xe nhỏ ở phía xa góc trên cùng (hướng đi từ trên xuống mới nhô ra),added,AI bỏ sót xe nhỏ mới nhô ra ở khu vực khúc cua xa theo GUIDELINE_LABEL.md
+1,frame_0380.jpg,vệt phản chiếu đèn đường trên mặt dải phân cách ở giữa,deleted,Xóa box giả (FP) do AI nhận nhầm vệt phản chiếu đèn đường trên mặt đường là xe
+1,frame_0331.jpg,xe ô tô ở làn giữa bị chói đèn pha chiếu xuống đường,edited,Chỉnh lại kích thước viền box ôm sát thân xe thay vì vẽ trùm lên vệt sáng mặt đường
